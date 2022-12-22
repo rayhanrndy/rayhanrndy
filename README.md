@@ -54,6 +54,9 @@
       <a href="https://www.adobe.com/id_en/products/photoshop/landpa.html?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxd1hc-V9AgLSDj5RH_q33JY0QTK-nQuVYDE94L4CuOp0g0dhpuw8MBoCZIkQAvD_BwE&sdid=85665QDS&mv=search&ef_id=CjwKCAiAnZCdBhBmEiwA8nDQxd1hc-V9AgLSDj5RH_q33JY0QTK-nQuVYDE94L4CuOp0g0dhpuw8MBoCZIkQAvD_BwE:G:s&s_kwcid=AL!3085!3!444512448900!e!!g!!photoshop!703952628!38400836578" target="_blank" rel="noreferrer"> <img
       src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg"
       alt="photoshop" width="40" height="40" /> </a>
+        <a href="https://www.coreldraw.com/en/" target="_blank" rel="noreferrer"> <img
+      src="https://www.coreldraw.com/static/cdgs/images/home/coreldraw-wm.png"
+      alt="coreldraw" height="40" /> </a>
    <a href="https://cplusplus.com/" target="_blank"
     rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
