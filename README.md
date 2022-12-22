@@ -11,7 +11,6 @@
 ## About Me
 - 🔭 I’m looking for job opportunities as a software engineer (frontend)
 - :zap: I’m currently working on a website app (ReactJS).
-- 
 ---
 
 ## My Links
