@@ -3,7 +3,8 @@
 
 ## 💼 Open for Opportunities
 I'm actively seeking full-time roles as a **QA Automation Engineer**.  
-Feel free to reach out — happy to discuss how I can contribute to deliver high-quality products!
+happy to discuss for any opportunities
+Feel free to reach out — happy to discuss for any opportunities and contribute to deliver high-quality products!
 
 ## 👨‍💻 About Me
 - 🔍 Passionate about software quality, building robust test automation frameworks, and delivering bug-free products.
