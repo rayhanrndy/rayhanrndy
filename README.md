@@ -37,5 +37,6 @@ Feel free to reach out — happy to discuss for any opportunities and contribute
 ![Cucumber](https://img.shields.io/badge/Cucumber-85A16A?style=flat&logo=cucumber&logoColor=white)
 
 ## 📬 Contact
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rayhanrendy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rayhanrendy17@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rayhanrndy)
