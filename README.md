@@ -13,14 +13,14 @@ Feel free to reach out — happy to discuss for any opportunities and contribute
 - 💡 Currently exploring selenium framework and other automation frameworks
 
 ## 🚀 Featured Projects
-- 🔗 [Flight Booking Agoda Cypress](https://github.com/rayhanrndy/flight-booking-agoda)  
+- 🔗 [Flight Booking Agoda](https://github.com/rayhanrndy/flight-booking-agoda)  
   🚀 End-to-end testing with Cypress, search flight from Jakarta to Singapore, select airlines with priority, fill the passenger data, and validation for expected passenger data and flight data.
-- 🔗 [SauceDemo Cypress E2E](https://github.com/rayhanrndy/features-testing-saucedemo)  
+- 🔗 [Saucedemo](https://github.com/rayhanrndy/web-automation-saucedemo)  
   🚀 Funtional testing with Cypress, covering login, add-to-cart, checkout.
-- 🔗 [OrangeHRM Cypress E2E](https://github.com/rayhanrndy/orangehrm-automation)  
+- 🔗 [OrangeHRM](https://github.com/rayhanrndy/orangehrm-web-testing)  
   🚀 Functional testing with Cypress, covering login, and adding new employee.
 - 🔗 [API Testing Dummyjson](https://github.com/rayhanrndy/api-testing-dummyjson)  
-  🧪 Postman & Cypress API automation with JSON schema validation.
+  🧪 Automation API testing using javascript, mocha & chai.
 
 ## 🖥️ Project Report
 - [Flight Booking Report](https://github.com/rayhanrndy/flight-booking-agoda/blob/main/cypress/html-report/cypress/reports/mochawesome.html)
