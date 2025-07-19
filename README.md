@@ -2,23 +2,23 @@
 🎯 QA Automation Engineer
 
 ## 💼 Open for Opportunities
-I'm actively seeking full-time roles as a **QA Automation Engineer**.  
+I'm actively seeking full-time roles as a **Software Quality Engineer**.  
 happy to discuss for any opportunities
 Feel free to reach out — happy to discuss for any opportunities and contribute to deliver high-quality products!
 
 ## 👨‍💻 About Me
 - 🔍 Passionate about software quality, building robust test automation frameworks, and delivering bug-free products.
 - 🧪 Specializing in **E2E Testing using Cypress & JavaScript**, with strong understanding of QA methodology (manual & automation).
-- 🚀 Actively looking for opportunities as a **QA Automation Engineer**.
-- 💡 Currently exploring selenium framework and other javascript automation frameworks
+- 🚀 Actively looking for opportunities as a **Software Quality Assurance Engineer**.
+- 💡 Currently exploring selenium framework and other automation frameworks
 
 ## 🚀 Featured Projects
 - 🔗 [Flight Booking Agoda Cypress](https://github.com/rayhanrndy/flight-booking-agoda)  
-  🚀 E2E testing with Cypress, search flight from Jakarta to Singapore, select airlines with priority, fill the passenger data, and validation for expected passenger data and flight data.
+  🚀 End-to-end testing with Cypress, search flight from Jakarta to Singapore, select airlines with priority, fill the passenger data, and validation for expected passenger data and flight data.
 - 🔗 [SauceDemo Cypress E2E](https://github.com/rayhanrndy/features-testing-saucedemo)  
-  🚀 Automation testing with Cypress, covering login, add-to-cart, checkout.
+  🚀 Funtional testing with Cypress, covering login, add-to-cart, checkout.
 - 🔗 [OrangeHRM Cypress E2E](https://github.com/rayhanrndy/orangehrm-automation)  
-  🚀 Automation testing with Cypress, covering login, and adding new employee.
+  🚀 Functional testing with Cypress, covering login, and adding new employee.
 - 🔗 [API Testing Dummyjson](https://github.com/rayhanrndy/api-testing-dummyjson)  
   🧪 Postman & Cypress API automation with JSON schema validation.
 
